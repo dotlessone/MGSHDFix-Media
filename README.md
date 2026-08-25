@@ -5,7 +5,15 @@
 
 This repo contains 4K uncompressed comparison screenshots of both the Vanilla/unmodified games & with MGSHDFix's corrections for media use. 
 
-For the actual MGSHDFix repo, please head here insteaed: https://github.com/ShizCalev/MGSHDFix
+For the actual MGSHDFix repo, please head here instead: https://github.com/ShizCalev/MGSHDFix
+
+
+
+
+Latest Release Comparisons: ![4-1-0](Changelog%20Comparisons/4-1-0.md)
+
+
+
 
 
 !!! SPOILER WARNING BEYOND THIS POINT !!!
